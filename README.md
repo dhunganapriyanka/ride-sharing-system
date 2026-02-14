@@ -19,4 +19,4 @@ g++ cpp/main.cpp -o cpp/main.exe
 
 ### Smalltalk
 
-Paste the contents of `smalltalk/RideSharingSystem.st` into [JDoodle Smalltalk](https://www.jdoodle.com/compile-smalltalk-online/) and run it.
+Paste the code of `smalltalk/RideSharingSystem.st` into [JDoodle Smalltalk](https://www.jdoodle.com/execute-smalltalk-online/) and run it.
